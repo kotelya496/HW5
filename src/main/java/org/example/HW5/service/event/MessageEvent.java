@@ -1,4 +1,4 @@
-package org.example.event;
+package org.example.HW5.service.event;
 
 import lombok.*;
 
